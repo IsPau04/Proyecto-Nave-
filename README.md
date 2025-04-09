@@ -1,5 +1,5 @@
 # Proyecto-Nave-
-proyecto realizado en c# con interfaz gráfica en visual studio 2022
+proyecto realizado en c# con interfaz gráfica en visual studio 2022, proyecto en master branch
 
 instrucciones:
 Simulador Sonda Espacial Ada
