@@ -1,0 +1,25 @@
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\bin\Debug\net6.0-windows\prueba 2.exe
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\bin\Debug\net6.0-windows\prueba 2.deps.json
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\bin\Debug\net6.0-windows\prueba 2.runtimeconfig.json
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\bin\Debug\net6.0-windows\prueba 2.dll
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\bin\Debug\net6.0-windows\prueba 2.pdb
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\obj\Debug\net6.0-windows\prueba 2.csproj.AssemblyReference.cache
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\obj\Debug\net6.0-windows\prueba_2.Form1.resources
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\obj\Debug\net6.0-windows\prueba 2.csproj.GenerateResource.cache
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\obj\Debug\net6.0-windows\prueba 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\obj\Debug\net6.0-windows\prueba 2.AssemblyInfoInputs.cache
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\obj\Debug\net6.0-windows\prueba 2.AssemblyInfo.cs
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\obj\Debug\net6.0-windows\prueba 2.csproj.CoreCompileInputs.cache
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\obj\Debug\net6.0-windows\prueba 2.dll
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\obj\Debug\net6.0-windows\refint\prueba 2.dll
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\obj\Debug\net6.0-windows\prueba 2.pdb
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\obj\Debug\net6.0-windows\prueba 2.genruntimeconfig.cache
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\obj\Debug\net6.0-windows\ref\prueba 2.dll
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\obj\Debug\net6.0-windows\prueba_2.Properties.Resources.resources
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\obj\Debug\net6.0-windows\prueba_2.Form2.resources
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\obj\Debug\net6.0-windows\prueba_2.Form3.resources
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\obj\Debug\net6.0-windows\prueba_2.instrucciones.resources
+C:\Users\Pau\Documents\UNIVERSIDAD\2023\Introduccion a la programación\proyecto 2\prueba 2\obj\Debug\net6.0-windows\prueba_2.RESUMEN_DE_DATOS.resources
+D:\personal\cv\PROYECTO 2 PAULA XIMENA NAVARRO RUANO\prueba 2\obj\Debug\net6.0-windows\prueba 2.dll
+D:\personal\cv\PROYECTO 2 PAULA XIMENA NAVARRO RUANO\prueba 2\obj\Debug\net6.0-windows\refint\prueba 2.dll
+D:\personal\cv\PROYECTO 2 PAULA XIMENA NAVARRO RUANO\prueba 2\obj\Debug\net6.0-windows\prueba 2.pdb
